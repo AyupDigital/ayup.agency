@@ -30,8 +30,13 @@ p {
 @media only screen and (max-width: 1200px) {
     body {
         font-size: 12px;
+        padding: 4em 2em;
     }
     .content {
         max-width: 100%;
     }
-}   
+    figure img {
+        max-width: 150px;
+        width: 100%;
+    }
+} 
