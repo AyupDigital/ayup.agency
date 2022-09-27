@@ -29,7 +29,7 @@ p {
 
 @media only screen and (max-width: 1200px) {
     body {
-        font-size: 14px;
+        font-size: 12px;
     }
     .content {
         max-width: 100%;
